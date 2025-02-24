@@ -1,0 +1,2 @@
+sqrt_number(x) = sqrt(x)
+println(sqrt_number(16))
